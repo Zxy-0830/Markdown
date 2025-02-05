@@ -4,14 +4,15 @@
 This is a luxury watch brande web with four pages.main page, sell page, contact page and
 about page.
 
-
+![Project Preview]
+![Project Preview]
 
 ## Technologies Used
 - HTML
-- CSS3 
+- CSS 
 
 ## Live Demo
-Check out the live version here: [Your GitHub Pages Link](https://yourusername.github.io/your-repo-name/)
+Check out the live version here: [Your GitHub Pages Link](https://github.com/Zxy-0830/)
 
 
 # Markdown
