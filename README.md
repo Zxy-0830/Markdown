@@ -9,7 +9,11 @@ about page.
 
 ## Technologies Used
 - HTML
-- CSS 
+- CSS
+
+## Project features
+- Creating a website for visitor to find watches
+- Providing a way for visitors to select watches what they like
 
 ## Live Demo
 Check out the live version here: (https://github.com/Zxy-0830/Markdown)
