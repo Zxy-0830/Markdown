@@ -4,7 +4,7 @@
 This is a luxury watch brande web with four pages.main page, sell page, contact page and
 about page.
 
-![Project Preview]
+![Project Preview]https://github.com/Zxy-0830/Markdown/blob/main/web_sell%20page.jpeg
 ![Project Preview]
 
 ## Technologies Used
